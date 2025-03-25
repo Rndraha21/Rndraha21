@@ -1,6 +1,9 @@
 <img src="banner.png" alt="banner" width="100%" />
 I'm currently Information Technology student at Universitas Jenderal Achmad Yani Yogyakarta with a focus on software development and cybersecurity. Possesses an understanding of various programming languages, frameworks, and cybersecurity principles. Actively seeking opportunities to develop skills and knowledge in this field.
 
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/robin_ndraha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/robinndraha) 
@@ -29,4 +32,3 @@ I'm currently Information Technology student at Universitas Jenderal Achmad Yani
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rndraha21/Rndraha21/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Rndraha21/Rndraha21/output/github-snake.svg" />
 </picture>
-
