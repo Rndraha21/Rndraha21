@@ -1,4 +1,3 @@
-<img src="banner1.png" alt="Banner1" width="100%"/>
 # 💫 About Me:
 🔭 I'm currently Information Technology student at Universitas Jenderal Achmad Yani Yogyakarta with a focus on software development and cybersecurity. Possesses an understanding of various programming languages, frameworks, and cybersecurity principles. Actively seeking opportunities to develop skills and knowledge in this field.
 
@@ -21,4 +20,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rndraha21/Rndraha21/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Rndraha21/Rndraha21/output/github-snake.svg" />
 </picture
-<img src="banner2.png" alt="Banner2" width="100%"/>
