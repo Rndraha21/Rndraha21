@@ -20,4 +20,3 @@ I'm currently Information Technology student at Universitas Jenderal Achmad Yani
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rndraha21/Rndraha21/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Rndraha21/Rndraha21/output/github-snake.svg" />
 </picture>
-<img src="banner.png" alt="banner" width="100%" />
