@@ -1,6 +1,5 @@
 <img src="banner.png" alt="banner" width="100%" />
-## 💫 About Me:
-🔭 I'm currently Information Technology student at Universitas Jenderal Achmad Yani Yogyakarta with a focus on software development and cybersecurity. Possesses an understanding of various programming languages, frameworks, and cybersecurity principles. Actively seeking opportunities to develop skills and knowledge in this field.
+I'm currently Information Technology student at Universitas Jenderal Achmad Yani Yogyakarta with a focus on software development and cybersecurity. Possesses an understanding of various programming languages, frameworks, and cybersecurity principles. Actively seeking opportunities to develop skills and knowledge in this field.
 
 
 ## 🌐 Socials:
